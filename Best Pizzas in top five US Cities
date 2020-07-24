@@ -1,0 +1,5 @@
+Background
+Jame's favorite food is pizza and his favorite US Cities are New York, San Francision, Jersey City, Boston and Chicago. He decided to go visit these cities and at the same time try out the best pizzas those cities have to offer. 
+
+Analysis and Research
+As a data scientist, the best approach to his "nice-to-have" problem is applying his skillsets to analyze and research where the best pizza restaurants are in those cities. James will use FourSquare API to collect data about pizza restaurants in New York, San Francision, Jersey City, Boston and Chicago. This analysis will give him a good idea of where to enjoy his favorite food in his favorite cities.
